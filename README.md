@@ -1,6 +1,6 @@
 # Face_Recognition_System
 # Hello guys!!!🙋‍♀️
-# Today we will see some tricks of face recognition...
+
 # Task 06 👨🏻‍💻
 
 # Task Description 📄😍✌
